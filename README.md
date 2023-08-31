@@ -24,6 +24,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 8.Interpret the results: Finally, you can interpret the model's results to gain insight into the relationship between the input variables and the output variable. This can help you understand the factors that influence the outcome and make informed decisions based on the results.
 
+
+
 ## Program:
 ```
 /*
