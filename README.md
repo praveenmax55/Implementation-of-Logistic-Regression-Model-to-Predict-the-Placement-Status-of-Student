@@ -88,6 +88,17 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Output:
 
 ![image](https://github.com/praveenmax55/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497509/ac26ca89-3b37-4384-8696-ce5e81f555c6)
+![image](https://github.com/praveenmax55/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497509/ba97748b-9f05-4134-802d-9f0f37f2a78a)
+![image](https://github.com/praveenmax55/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497509/8243014d-5440-4472-86da-466d6731e71f)
+![image](https://github.com/praveenmax55/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497509/5a22e62f-6c2e-4388-8d49-a91cdb96f98d)
+![image](https://github.com/praveenmax55/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497509/7f30e925-0474-46e8-9234-127aec1c87ae)
+![image](https://github.com/praveenmax55/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497509/9e8a7c47-b671-497c-8e36-779a54f8a131)
+![image](https://github.com/praveenmax55/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497509/c4719581-e775-47c6-b8d1-ac01552e23cb)
+![image](https://github.com/praveenmax55/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497509/65010508-166f-42b5-9cad-a901f3795e37)
+![image](https://github.com/praveenmax55/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497509/1990880f-fd8d-4f32-a936-03e9b1186116)
+![image](https://github.com/praveenmax55/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497509/21883bd0-3eea-4951-9e50-4099e36f685e)
+![image](https://github.com/praveenmax55/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497509/47512832-8f38-4161-a7ba-ceb62f26dcce)
+![image](https://github.com/praveenmax55/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497509/b81386d7-2e2d-4903-b2ab-129bd1746883)
 
 
 ## Result:
